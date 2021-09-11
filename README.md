@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding/programming & new technology
 - 🌱 I’m currently learning PHP Framework (Laravel)
 - 💞️ I’m looking to collaborate on coding.
-- 📫 How to reach me polash_msh@yaoo.com
+- 📫 How to reach me polash_msh@yahoo.com
 
 <!---
 psarker69/psarker69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
