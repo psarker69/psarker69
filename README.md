@@ -2,7 +2,7 @@
 ## PHP Web Developer
 - 🌍 I'm based in Dhaka, Bangladesh
 - 🚀 I'm currently working as PHP Web Developer at [Hi Tech IT](https://hitechit.com.bd/) & [Honours Admission](https://honoursadmission.com/)
-- ✉️ You can contact me at polash_msh@yahoo.com
+- ✉️ You can contact me at polash_msh@yahoo.com, farukp2010@gmail.com
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=php)](https://php.net)
